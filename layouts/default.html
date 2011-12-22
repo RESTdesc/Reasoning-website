@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bringing reasoning to the Web<!-- <%= @item[:title] %> --></title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>Bringing reasoning to the Web</h1>
+        <h2>Delivering Semantic Web reasoning for people</h2>
+      </hgroup>
+    </header>
+    <article>
+      <%= yield %>
+    </article>
+    <footer>
+    </footer>
+  </body>
+</html>
