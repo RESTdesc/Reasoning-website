@@ -11,7 +11,7 @@ However, reasoners can feel complicated,
 making them hard for frequent use.
 Therefore, this initiative aims to provide a **user-friendly reasoning experience** in current Web browsers and applications.
 
-For a live demo, check out an [online reasoning example](http://n3.restdesc.org/rules/generalized-rules/).
+For a **live demo**, check out an [online reasoning example](http://n3.restdesc.org/rules/generalized-rules/).
 
 # Handy client widgets use smart server tools
 Reasoning in Web browsers consists of two parts:
