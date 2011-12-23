@@ -9,6 +9,7 @@ compile '*' do
   unless item.binary?
     filter :rdiscount if item[:extension] =~ /md$/
     layout 'default'
+    filter :externalize_links
     filter :relativize_paths, :type => :html
     filter :html_compressor if compress
   end
