@@ -21,3 +21,15 @@ The widget and the reasoner communicate to deliver the reasoning experience.
   <img src="images/reasoner-client-server.png">
   <figcaption>A browser widget talks with a reasoner on the server.</figcaption>
 </figure>
+
+# We create free and open reasoning resources
+We strive to make reasoning freely available for everyone.  
+This is why we develop several **open source projects**:
+
+- [EyeClient](https://github.com/RubenVerborgh/EyeClient) is a browser widget for the EYE reasoner server.
+- [EyeServer](https://github.com/RubenVerborgh/EyeServer) is a server for the EYE reasoner.
+- [node-n3](https://github.com/RubenVerborgh/node-n3) is an N3 library for JavaScript.
+
+Furthermore, we create **free interactive courses** on reasoning:
+
+- [Semantic Web Reasoning with EYE](http://n3.restdesc.org/) is a comprehensive introduction.
