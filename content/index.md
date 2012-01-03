@@ -1,7 +1,7 @@
 # Everyone should get easy access to reasoning
 [Reasoning](http://n3.restdesc.org/) is the powerful mechanism to draw conclusions from facts.
 The [Semantic Web](http://www.w3.org/2001/sw/) contains vast amounts of data,
-which makes it an interesting source to use with one of the several available [reasoners](http://en.wikipedia.org/wiki/Semantic_reasoner).
+which makes it an interesting source to use with one of several available [reasoners](http://en.wikipedia.org/wiki/Semantic_reasoner).
 
 However, reasoners can feel complicated,
 making them hard for frequent use.
@@ -33,6 +33,17 @@ This is why we develop several **open source projects**:
 Furthermore, we create **free interactive courses** on reasoning:
 
 - [Semantic Web Reasoning with EYE](http://n3.restdesc.org/) is a comprehensive introduction.
+
+# Reasoning drives our research.
+This initiative started as part of the PhD research of Ruben Verborgh ([e-mail](mailto:ruben.verborgh@ugent.be)),
+conducted at [Multimedia Lab](http://multimedialab.elis.ugent.be/) under supervision of dr. Erik Mannens and prof. dr. Rik Van de Walle.
+
+We use reasoning in several of our projects.
+One example is [RESTdesc](http://restdesc.org/), a functional Web API description format.
+By making reasoning tools accessible, we can **boost people's interest** in our work and reasoning in general.
+
+We would like to thank everyone who stimulates us to continue this effort.
+Our gratitude goes out to Jos De Roo, author of the [EYE reasoner](http://eulersharp.sourceforge.net/).
 
 # Share and contribute to this initiative.
 Can you help more people get access to user-friendly reasoning?  
