@@ -33,3 +33,25 @@ This is why we develop several **open source projects**:
 Furthermore, we create **free interactive courses** on reasoning:
 
 - [Semantic Web Reasoning with EYE](http://n3.restdesc.org/) is a comprehensive introduction.
+
+# Share and contribute to this initiative.
+Can you help more people get access to user-friendly reasoning?  
+That's great!
+**Share** this page on any of your networks:
+
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_facebook"></a>
+  <a class="addthis_button_google"></a>
+  <a class="addthis_button_email"></a>
+  <a class="addthis_button_blogger"></a>
+  <a class="addthis_button_preferred_1"></a>
+  <a class="addthis_button_preferred_2"></a>
+  <a class="addthis_button_preferred_3"></a>
+  <a class="addthis_button_preferred_4"></a>
+  <a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js"></script>
+
+You're also invited to **join** our projects on GitHub.
+
