@@ -32,7 +32,7 @@ This is why we develop several **open source projects**:
 
 Furthermore, we create **free interactive courses** on reasoning:
 
-- [Semantic Web Reasoning with EYE](http://n3.restdesc.org/) is a comprehensive introduction.
+- [Semantic Web Reasoning with EYE](http://n3.restdesc.org/) is a comprehensive introduction.
 
 # Reasoning drives our research.
 This initiative started as part of the PhD research of Ruben Verborgh ([e-mail](mailto:ruben.verborgh@ugent.be)),
