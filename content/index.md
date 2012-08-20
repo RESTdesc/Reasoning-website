@@ -35,7 +35,7 @@ Furthermore, we create **free interactive courses** on reasoning:
 - [Semantic Web Reasoning with EYE](http://n3.restdesc.org/) is a comprehensive introduction.
 
 # Reasoning drives our research.
-This initiative started as part of the PhD research of Ruben Verborgh ([e-mail](mailto:ruben.verborgh@ugent.be)),
+This initiative started as part of the PhD research of [Ruben Verborgh](http://ruben.verborgh.org/),
 conducted at [Multimedia Lab](http://multimedialab.elis.ugent.be/) under supervision of dr. Erik Mannens and prof. dr. Rik Van de Walle.
 
 We use reasoning in several of our projects.
